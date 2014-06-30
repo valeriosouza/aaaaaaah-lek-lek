@@ -1,14 +1,14 @@
 <?php
 /**
  * @package ah_lek
- * @version 1.0
+ * @version 1.1
  */
 /*
 Plugin Name: Lek Lek
 Plugin URI: http://valeriosouza.com.br
 Description: Coloque o Lek Lek no seu WordPress
 Author: Valério Souza
-Version: 1.0
+Version: 1.1
 Author URI: http://valeriosouza.com.br
 */
 
